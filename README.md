@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance Data Analysis
 
 ## Project Overview
@@ -34,3 +35,7 @@ student_data.csv
 
 ## Conclusion
 The project analyzes students' academic performance and attendance using Python data analysis libraries.
+=======
+# Student-Performance-Data-Analysis
+A Python Data Analysis project using Pandas and Matplotlib to analyze student performance, attendance, city-wise distribution, and visualize insights through charts.
+>>>>>>> 3f3e71a2dcaee1e562fe748f07fed0275ae5955e
