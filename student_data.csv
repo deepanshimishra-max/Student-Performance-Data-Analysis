@@ -1,0 +1,11 @@
+Student_ID,Name,Gender,Age,Math,Science,English,Attendance,City
+1,Aman,Male,20,85,78,90,92,Delhi
+2,Priya,Female,21,95,88,93,96,Lucknow
+3,Rahul,Male,20,65,70,68,80,Delhi
+4,Neha,Female,22,78,82,85,90,Kanpur
+5,Rohit,Male,21,55,60,58,75,Agra
+6,Simran,Female,20,92,95,91,98,Delhi
+7,Arjun,Male,22,72,68,74,85,Noida
+8,Pooja,Female,21,88,84,86,94,Lucknow
+9,Karan,Male,20,60,65,62,78,Agra
+10,Riya,Female,22,98,96,99,99,Delhi

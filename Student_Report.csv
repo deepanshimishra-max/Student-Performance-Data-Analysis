@@ -1,0 +1,11 @@
+Student_ID,Name,Gender,Age,Math,Science,English,Attendance,City,Total,Percentage,Grade
+1,Aman,Male,20,85,78,90,92,Delhi,253,84.33333333333333,A
+2,Priya,Female,21,95,88,93,96,Lucknow,276,92.0,A+
+3,Rahul,Male,20,65,70,68,80,Delhi,203,67.66666666666667,C
+4,Neha,Female,22,78,82,85,90,Kanpur,245,81.66666666666667,A
+5,Rohit,Male,21,55,60,58,75,Agra,173,57.666666666666664,D
+6,Simran,Female,20,92,95,91,98,Delhi,278,92.66666666666667,A+
+7,Arjun,Male,22,72,68,74,85,Noida,214,71.33333333333333,B
+8,Pooja,Female,21,88,84,86,94,Lucknow,258,86.0,A
+9,Karan,Male,20,60,65,62,78,Agra,187,62.333333333333336,C
+10,Riya,Female,22,98,96,99,99,Delhi,293,97.66666666666667,A+
